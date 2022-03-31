@@ -1,0 +1,108 @@
+* { font-family: sans-serif }
+
+html { font-size: 62.5%; }
+
+body { margin: 0 }
+
+.logo {
+    user-select: none;
+    -webkit-user-drag: none;
+    margin: 10px 0 10px
+}
+
+/* HEADER */
+
+header {
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    background-color: #ececec
+}
+
+/* NAVBAR */
+
+nav {
+    background-color: #ececec;
+    position: sticky;
+    top: 0;
+    height: 30px
+}
+
+#telas-maiores {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20% 0 20%;
+    padding-top: 8px
+}
+
+#telas-menores { display: none }
+
+nav a {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: black
+}
+
+/* MAIN */
+
+main { margin: 64px 20% 64px 20%; }
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem
+}
+
+main div {
+    background-color: #cdcdcd;
+    text-align: justify;
+    font-size: 1.2rem;
+    margin-bottom: 50px;
+    padding: 10px
+}
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    background-color: #ececec
+}
+
+@media (min-width:320px) and (max-width:599px) {
+
+    /* NAVBAR */
+
+    #telas-maiores { display: none }
+
+    #telas-menores {
+        display: flex;
+        justify-content: space-around;
+        margin: 0 5% 0 5%;
+        padding-top: 8px
+    }
+
+    /* MAIN */
+
+    main { margin: 64px 0 64px 0; }
+
+}
+
+@media (min-width: 600px) and (max-width: 767px) {
+
+    /* NAVBAR */
+
+    #telas-maiores { margin: 0 10% 0 10% }
+
+    /* MAIN */
+
+    main { margin: 64px }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    main { margin: 64px }
+
+}
