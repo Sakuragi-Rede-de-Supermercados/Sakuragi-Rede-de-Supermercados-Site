@@ -5,7 +5,7 @@ sakuragi.addEventListener("click", () => {
     if (musica === 0) {
         footer.innerHTML = `<img id="sakuragi" class="logo" src="midias/super-sakuragi-logo.svg" alt="logo do site">
                             <audio autoplay="true" src="midias/tokyo-drift.mp3"></audio>`
-        musica = 1;
+        musica++;
 
         setTimeout(() => {
             footer.innerHTML = `<img id="sakuragi" class="logo" src="midias/super-sakuragi-logo.svg" alt="logo do site">`;
