@@ -1,4 +1,4 @@
-# Sakuragi-Rede-de-Supermercados-Site
+# Sakuragi-Rede-de-Supermercados
    Site da Rede de Supermercados Sakuragi <br>
           <h2> O que o projeto faz? </h2>
      <p> - Esse projeto foi criado com o intuito de apresentar uma empresa fictícia, sua história, feitos e seus serviços para fins de prática dos conhecimentos obtidos na cadeira de       Gerência de Configuração e Mudanças. </p> 
