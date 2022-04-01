@@ -1,0 +1,27 @@
+.bold { font-weight: bold; }
+
+main div {
+    display: flex;
+    justify-content: space-around;
+}
+
+main img {
+    height: 250px;
+    width: 300px
+}
+
+main p {
+    text-align: center;
+    margin-top: 7%;
+}
+
+@media (min-width: 320px) and (max-width: 599px) {
+
+    main div {
+        flex-direction: column;
+        justify-content: center
+    }
+
+    main img { margin: auto }
+
+}
