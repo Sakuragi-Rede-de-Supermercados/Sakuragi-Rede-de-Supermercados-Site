@@ -1,0 +1,24 @@
+<svg width="303" height="271" viewBox="0 0 303 271" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="2.59998" y1="92.5" x2="2.59998" y2="266.5" stroke="#EFDB29" stroke-width="5" stroke-linecap="round"/>
+<line y1="224.5" x2="302" y2="224.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="299.5" y1="227.5" x2="299.5" y2="268.5" stroke="#EFDB29" stroke-width="5" stroke-linecap="round"/>
+<line x1="299.596" y1="225.504" x2="299.503" y2="172.504" stroke="#EFDB29" stroke-width="5" stroke-linecap="round"/>
+<line x1="103.6" y1="227" x2="103.6" y2="140" stroke="#EFDB29" stroke-width="5"/>
+<line x1="139.6" y1="227" x2="139.6" y2="140" stroke="#EFDB29" stroke-width="5"/>
+<line x1="0.0999756" y1="168.5" x2="106.1" y2="168.5" stroke="#EFDB29" stroke-width="5"/>
+<path d="M61.6 139.5L268 140" stroke="#EFDB29" stroke-width="5" stroke-linecap="square"/>
+<path d="M270.662 140C273.421 163.295 281.343 166.197 299.178 171.485" stroke="#EFDB29" stroke-width="5" stroke-linecap="round"/>
+<path d="M62.1 139.5C46.6 140 43.6 159 47.1 170.5" stroke="#EFDB29" stroke-width="5"/>
+<path d="M0.555794 130.795C20.1001 130.795 32.1001 151.5 24.1 170.5" stroke="#EFDB29" stroke-width="5"/>
+<circle cx="33.1" cy="125" r="17.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="58.1" y1="83.5" x2="77.1" y2="83.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="58.1" y1="100.5" x2="77.1" y2="100.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="56.433" y1="101.137" x2="75.433" y2="84.1369" stroke="#EFDB29" stroke-width="5"/>
+<line x1="126.1" y1="39.5" x2="152.1" y2="39.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="126.1" y1="62.5" x2="152.1" y2="62.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="124.444" y1="63.1275" x2="150.444" y2="40.1275" stroke="#EFDB29" stroke-width="5"/>
+<line x1="90.1" y1="62.5" x2="114.1" y2="62.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="90.1" y1="83.5" x2="114.1" y2="83.5" stroke="#EFDB29" stroke-width="5"/>
+<line x1="88.4537" y1="84.1186" x2="112.454" y2="63.1186" stroke="#EFDB29" stroke-width="5"/>
+<path d="M256.218 30.6824C254.202 24.3448 248.581 17.0271 240.718 12.3766C242.149 14.7544 243.268 17.3626 244.077 20.0754C246.077 26.7836 246.249 34.3499 244.395 41.1983C242.54 48.0564 238.604 54.3406 232.266 58.1931C228.525 60.4671 224.065 61.8226 218.9 62.0144C219.403 62.1796 219.923 62.3376 220.46 62.4867C226.523 64.1707 234.673 64.7049 244.126 61.6551C251.323 58.5943 255.079 53.4653 256.713 47.8615C258.382 42.136 257.853 35.8184 256.218 30.6824Z" stroke="#EFDB29" stroke-width="5"/>
+</svg>
